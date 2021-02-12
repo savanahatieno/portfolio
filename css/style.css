@@ -325,6 +325,12 @@ p {
 	text-align: left;
 }
 /* End Services Section */
+/*Project Section*/
+
+.project-img{
+    width: 500px;
+}
+
 /* About Section */
 #about .about {
 	flex-direction: column-reverse;
@@ -624,4 +630,3 @@ p {
 	}
 }
 /* End  Media Query For Desktop */
-
