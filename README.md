@@ -2,7 +2,8 @@
 Welcome to my journey as a software development student.
 
 ## Screenshot
-![pizzaria-screenshot](https://user-images.githubusercontent.com/62004236/79657791-e8091c00-81bb-11ea-80e6-d5f044f810b1.png)
+![Result](https://user-images.githubusercontent.com/62004236/107810877-66076680-6d7e-11eb-85c4-58b48344e43b.png)
+
 
 ## Live Page
 # (https://savanahatieno.github.io/portfolio/)
